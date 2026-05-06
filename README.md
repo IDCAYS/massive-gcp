@@ -180,8 +180,6 @@ See `NOTES.md` for a concise explanation of Datastore's partitioning (range part
 ## License
 MIT
 
-```
-
 Passage à l’échelle sur la charge
 
 Pour étudier l’évolution de performance en présence de concurrence, vous devez fixer la taille des données: 1000 utilisateurs, 50 posts par utilisateur et 20 followers random par utilisateur.
