@@ -7,4 +7,4 @@ handlers:
 - url: /
   script: auto
 env_variables:
-  SEED_TOKEN: "change-me-seed-token"
+  SEED_TOKEN: "julieninsta"
