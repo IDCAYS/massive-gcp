@@ -221,3 +221,6 @@ Utiliser du Fan-out on Write (Push Model) : quand quelqu'un poste un message, on
 
 
 URL de la webapp : https://tinyinsta2026.ew.r.appspot.com/
+
+À l’instant où je dépose le TP sur MADOC, je suis à 49,96 dollars utilisés. Je ne sais donc pas si des coûts vont continuer à s’accumuler même si je ne touche plus à rien. Je ne sais donc pas si mon URL restera accessible.
+![alt text](image-6.png)
