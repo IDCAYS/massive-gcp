@@ -188,7 +188,7 @@ Toute mesure de temps doit être répétée 3 fois.
 
 Voici les résultats:
 
-![alt text](image-7.png)
+![alt text](conc.png)
 
 L'observation : Le temps de réponse reste stable entre 1 et 100 utilisateurs. Par contre, à 1000 utilisateurs, le temps de réponse explose au-delà de 2000ms.
 Est-ce logique ? Oui. C'est le comportement typique d'un service PaaS comme App Engine.
@@ -202,7 +202,7 @@ Passage à l’échelle sur taille des données
 
 Voici les résultats:
 
-![alt text](image-3.png)
+![alt text](fanout.png)
 
 L'observation : Ici, c'est radical. À 20 abonnés (followees), tout va bien (~150ms). Dès qu'on passe à 40, le temps de réponse saute à 2300ms, puis dépasse les 3000ms à 60.
 Est-ce logique ? Oui, mais c'est un problème connue. C'est ce qu'on appelle le problème du Fan-out on Read.
